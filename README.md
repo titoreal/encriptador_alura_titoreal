@@ -48,5 +48,5 @@ Por ejemplo:
 
 ---
 
-## [ir a la pagina](https://github.com/titoreal/encriptador_alura_titoreal/deployments/github-pages) 👈
+## [ir a la pagina](https://titoreal.github.io/encriptador_alura_titoreal/) 👈
 
